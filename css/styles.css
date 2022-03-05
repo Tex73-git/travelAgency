@@ -35,7 +35,7 @@ a {
     color: #444;
 }
 .wrapper {
-    width: 1300px;
+    width: 940px;
     margin: 0 auto;
     padding: 0 10px;
 }
@@ -75,7 +75,7 @@ header nav ul li a {
 /* Main-image */
 #main-image {
     height: 580px;
-    background: url('../img/main.jpg') no-repeat center;
+    background: url('../img/main.jpg') center no-repeat;
 }
 #main-image h2 {
     font-weight: normal;
